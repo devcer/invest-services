@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'InvestApplication',
+      name: 'InvestSerices',
       script: 'dist/index.js',
       instances: 1,
       autorestart: true,
